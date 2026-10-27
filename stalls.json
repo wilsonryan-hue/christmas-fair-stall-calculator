@@ -1,0 +1,222 @@
+{
+ "note": "Starting guesses by TCH Works for a typical small UK school or community Christmas fair, not measured data. Change them to match your event.",
+ "license": "MIT",
+ "stalls": [
+  {
+   "stall": "Tombola",
+   "price_gbp": 1.0,
+   "cost_per_go_gbp": 0.0,
+   "goes_per_100_visitors": 35,
+   "float_gbp": 20,
+   "tip": "Donated bottles and prizes; ticket ending 0 or 5 wins",
+   "ticked_by_default": true
+  },
+  {
+   "stall": "Raffle (on the day)",
+   "price_gbp": 1.0,
+   "cost_per_go_gbp": 0.0,
+   "goes_per_100_visitors": 40,
+   "float_gbp": 10,
+   "tip": "Strip of 5 tickets is popular at £2",
+   "ticked_by_default": true
+  },
+  {
+   "stall": "Bake sale (per cake/slice)",
+   "price_gbp": 0.75,
+   "cost_per_go_gbp": 0.0,
+   "goes_per_100_visitors": 60,
+   "float_gbp": 20,
+   "tip": "Donated bakes; label allergens",
+   "ticked_by_default": true
+  },
+  {
+   "stall": "Santa's grotto",
+   "price_gbp": 3.0,
+   "cost_per_go_gbp": 1.0,
+   "goes_per_100_visitors": 20,
+   "float_gbp": 20,
+   "tip": "Cost is a small gift per child",
+   "ticked_by_default": true
+  },
+  {
+   "stall": "Hot chocolate",
+   "price_gbp": 1.5,
+   "cost_per_go_gbp": 0.4,
+   "goes_per_100_visitors": 30,
+   "float_gbp": 20,
+   "tip": "Sachets, cups, squirty cream",
+   "ticked_by_default": true
+  },
+  {
+   "stall": "Tea, coffee and squash",
+   "price_gbp": 1.0,
+   "cost_per_go_gbp": 0.2,
+   "goes_per_100_visitors": 30,
+   "float_gbp": 15,
+   "tip": "Urn, cups, milk",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Mulled drinks (non-alcoholic)",
+   "price_gbp": 2.0,
+   "cost_per_go_gbp": 0.5,
+   "goes_per_100_visitors": 15,
+   "float_gbp": 15,
+   "tip": "Spiced apple or grape",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Hook a duck",
+   "price_gbp": 1.0,
+   "cost_per_go_gbp": 0.3,
+   "goes_per_100_visitors": 25,
+   "float_gbp": 15,
+   "tip": "Small prize each go",
+   "ticked_by_default": true
+  },
+  {
+   "stall": "Guess the reindeer's name",
+   "price_gbp": 0.5,
+   "cost_per_go_gbp": 0.0,
+   "goes_per_100_visitors": 30,
+   "float_gbp": 10,
+   "tip": "One winner, one prize",
+   "ticked_by_default": true
+  },
+  {
+   "stall": "Sweets in the jar",
+   "price_gbp": 0.5,
+   "cost_per_go_gbp": 0.0,
+   "goes_per_100_visitors": 30,
+   "float_gbp": 10,
+   "tip": "Donated jar of sweets",
+   "ticked_by_default": true
+  },
+  {
+   "stall": "Name the teddy",
+   "price_gbp": 0.5,
+   "cost_per_go_gbp": 0.0,
+   "goes_per_100_visitors": 25,
+   "float_gbp": 10,
+   "tip": "Donated teddy",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Hoopla",
+   "price_gbp": 1.0,
+   "cost_per_go_gbp": 0.2,
+   "goes_per_100_visitors": 20,
+   "float_gbp": 15,
+   "tip": "Pocket-money prizes",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Splat the rat",
+   "price_gbp": 0.5,
+   "cost_per_go_gbp": 0.0,
+   "goes_per_100_visitors": 20,
+   "float_gbp": 10,
+   "tip": "Drainpipe and a sock rat",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Bottle stall",
+   "price_gbp": 1.0,
+   "cost_per_go_gbp": 0.0,
+   "goes_per_100_visitors": 25,
+   "float_gbp": 15,
+   "tip": "Donated bottles, every ticket wins",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Chocolate tombola",
+   "price_gbp": 1.0,
+   "cost_per_go_gbp": 0.0,
+   "goes_per_100_visitors": 25,
+   "float_gbp": 15,
+   "tip": "Donated chocolate, every ticket wins",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Nearly new toys and books",
+   "price_gbp": 0.5,
+   "cost_per_go_gbp": 0.0,
+   "goes_per_100_visitors": 40,
+   "float_gbp": 20,
+   "tip": "Donated; lots of 50p",
+   "ticked_by_default": true
+  },
+  {
+   "stall": "Face painting",
+   "price_gbp": 2.0,
+   "cost_per_go_gbp": 0.2,
+   "goes_per_100_visitors": 15,
+   "float_gbp": 15,
+   "tip": "Volunteer painter, wipes",
+   "ticked_by_default": true
+  },
+  {
+   "stall": "Glitter tattoos",
+   "price_gbp": 1.5,
+   "cost_per_go_gbp": 0.3,
+   "goes_per_100_visitors": 12,
+   "float_gbp": 15,
+   "tip": "Stencils and glitter",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Christmas craft table",
+   "price_gbp": 2.0,
+   "cost_per_go_gbp": 0.6,
+   "goes_per_100_visitors": 15,
+   "float_gbp": 15,
+   "tip": "Make a decoration",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Christmas cards and wrap",
+   "price_gbp": 1.0,
+   "cost_per_go_gbp": 0.4,
+   "goes_per_100_visitors": 10,
+   "float_gbp": 10,
+   "tip": "Bought in bulk",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Wreaths and greenery",
+   "price_gbp": 8.0,
+   "cost_per_go_gbp": 3.0,
+   "goes_per_100_visitors": 3,
+   "float_gbp": 20,
+   "tip": "Pre-ordered helps",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Sweet cones",
+   "price_gbp": 1.5,
+   "cost_per_go_gbp": 0.6,
+   "goes_per_100_visitors": 20,
+   "float_gbp": 15,
+   "tip": "Bagged pick and mix",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Hot dogs",
+   "price_gbp": 2.5,
+   "cost_per_go_gbp": 0.9,
+   "goes_per_100_visitors": 15,
+   "float_gbp": 20,
+   "tip": "Check food safety rules",
+   "ticked_by_default": false
+  },
+  {
+   "stall": "Secret present room",
+   "price_gbp": 2.0,
+   "cost_per_go_gbp": 1.2,
+   "goes_per_100_visitors": 15,
+   "float_gbp": 15,
+   "tip": "Kids buy a wrapped gift for family",
+   "ticked_by_default": false
+  }
+ ]
+}
