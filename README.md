@@ -4,6 +4,12 @@ A free calculator for PTA, PTFA, church and club volunteers planning a Christmas
 
 **Use it now, no install:** [tchworks.co.uk/free/christmas-fair-stall-calculator](https://www.tchworks.co.uk/free/christmas-fair-stall-calculator/?utm_source=github&utm_campaign=fair-repo)
 
+## Printables
+
+**Free stall planner (A4 PDF):** [download the Release](https://github.com/wilsonryan-hue/christmas-fair-stall-calculator/releases/tag/v1.0.0-free-printable) — all 24 stalls with starting prices, blank planner, worked EXAMPLE for 300 visitors (10 default stalls → £990 takings / ~£128 costs / ~£863 profit / £160 float), tips, and a float & cash count sheet.
+
+For the full 20-page committee pack (8-week countdown, parent + prize letters, stall/price signs, volunteer rota, raffle/tombola rules, allergen bake labels, grotto tickets, cash count): [Christmas Fair Organiser Kit](https://www.tchworks.co.uk/shop/christmas-fair-organiser-kit/?utm_source=github&utm_campaign=fair-repo) (£3.49, print at home) · [Gumroad](https://tchworks.gumroad.com/l/oyijlf?utm_source=github&utm_campaign=fair-repo).
+
 ## What's in this repo
 
 - `index.html`: the whole calculator in one file. Open it in a browser; there's no build step and nothing to install.
